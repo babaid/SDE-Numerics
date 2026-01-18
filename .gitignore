@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+out.dat
+.gitignore
+main
